@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "roy",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c495a217-0518-44d5-8da1-0f6656460e62"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "6cfcb3b6-b81b-4e88-9176-3fcc6828b105"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "c495a217-0518-44d5-8da1-0f6656460e62"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

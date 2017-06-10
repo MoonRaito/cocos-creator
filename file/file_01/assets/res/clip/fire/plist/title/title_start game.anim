@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "title_start game",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.4,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {},
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d4bb7473-90a0-4f39-a1cb-ae56a5ab5628"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d4bb7473-90a0-4f39-a1cb-ae56a5ab5628"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "ae5708ec-5034-43f2-b5ab-b3fac46d2985"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "03cd7208-2caa-4966-9232-551f1fa0bbbe"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "87346019-92e3-47ba-adc2-708c86e09d7d"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "5c414c51-5c9d-43b9-8e79-853cdf0218a1"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "1347c787-0332-4bd3-8618-5eaab594e2cc"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

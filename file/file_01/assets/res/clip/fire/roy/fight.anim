@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fight",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.5,
+  "sample": 2,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "11f2faba-d161-4ebe-885e-2e46ad914d4d"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "ed58ad64-50a9-46c2-8ed9-0c505dee3f46"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "5f5584be-e6c7-4e42-acf4-b7f4343f400c"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "f4a9ca8a-ba47-4a20-87d0-6e0ce606adf8"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "84f44930-6024-41c2-a66d-d87b0d3eea18"
+            }
+          }
+        ]
+      }
+    },
+    "paths": {},
+    "props": {}
+  },
+  "events": []
+}
